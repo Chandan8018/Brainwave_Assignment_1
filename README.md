@@ -1,6 +1,6 @@
-## 🌟 Refer & Earn Frontend
+## 🌟 Refer & Earn Landing page
 
-Welcome to the frontend of the Refer & Earn application! This user-friendly interface allows users to easily refer others and earn rewards.
+Welcome to the Refer & Earn application! This user-friendly interface allows users to easily refer others and earn rewards.
 
 ## 🎨 Technologies Used
 
@@ -25,7 +25,7 @@ Welcome to the frontend of the Refer & Earn application! This user-friendly inte
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/Chandan8018/AccredianFrontend.git ↩
+    git clone https://github.com/Chandan8018/Brainwave_Assignment_1.git ↩
     cd AccredianFrontend ↩
     ```
 
@@ -82,7 +82,7 @@ For any questions or inquiries, please contact:
 
 ### Notes:
 
-1. **Repository URL**: Make sure to update the repository URL (`https://github.com/Chandan8018/AccredianFrontend.git`) with the actual URL of your frontend repository.
+1. **Repository URL**: Make sure to update the repository URL (`https://github.com/Chandan8018/Brainwave_Assignment_1`) with the actual URL of your frontend repository.
 2. **Environment Variables**: If there are specific environment variables required for the frontend (e.g., API base URL), mention them in the README.
 3. **Consistency**: Ensure the names and paths of images in the `public` directory match those in the README.
 
