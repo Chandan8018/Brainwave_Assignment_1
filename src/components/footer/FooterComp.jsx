@@ -130,7 +130,7 @@ function FooterComp() {
                     className='text-white'
                   />
                   <Footer.Icon
-                    href='#'
+                    href='https://github.com/Chandan8018'
                     icon={BsGithub}
                     className='text-white'
                   />
@@ -145,9 +145,13 @@ function FooterComp() {
             <div className='md:col-span-1'>
               <Footer.Title title='Accredian' className='text-white' />
               <Footer.LinkGroup col className='text-white'>
-                <Footer.Link href='#'>About</Footer.Link>
+                <Footer.Link href='https://chandan-kumar-omega.vercel.app/'>
+                  About
+                </Footer.Link>
                 <Footer.Link href='#'>Career</Footer.Link>
-                <Footer.Link href='#'>Blog</Footer.Link>
+                <Footer.Link href='https://chandanblog.onrender.com/'>
+                  Blog
+                </Footer.Link>
                 <Footer.Link href='#'>Admission Policy</Footer.Link>
                 <Footer.Link href='#'>Referral Policy</Footer.Link>
                 <Footer.Link href='#'>Privacy Policy</Footer.Link>
